@@ -1,3 +1,4 @@
+// Package overlayfs provides a simple overlay file system compatible with net/http
 package overlayfs
 
 import (
